@@ -1,0 +1,45 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++.exe 生成活动文件",
+            "command": "D:\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I",
+                "D:\\opencv-4.x\\build\\install\\include",
+                "-I",
+                "D:\\opencv-4.x\\build\\install\\include\\opencv2"
+                "-L","D:\\opencv-4.x\\build\\install\\x64\\mingw\\bin",
+                "-l", "libopencv_calib3d460",
+                "-l", "libopencv_core460",
+                "-l", "libopencv_dnn460",
+                "-l", "libopencv_features2d460",
+                "-l", "libopencv_flann460",
+                "-l", "libopencv_gapi460",
+                "-l", "libopencv_highgui460",
+                "-l", "libopencv_imgcodecs460",
+                "-l", "libopencv_imgproc460",
+                "-l", "libopencv_ml460",
+                "-l", "libopencv_objdetect460",
+                "-l", "libopencv_photo460",
+                "-l", "libopencv_stitching460",
+                "-l", "libopencv_video460",
+                "-l", "libopencv_videoio460"
+            ],
+            "options": {
+                "cwd": "D:\\mingw64\\bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "编译器: D:\\mingw64\\bin\\g++.exe"
+        }
+    ]
+}

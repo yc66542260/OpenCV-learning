@@ -1,0 +1,5 @@
+C:/Users/RTT/Desktop/learning/OpenCV/OpenCV-test/test_1-types文档测试/x86-64/build/CMakeFiles/test.dir
+C:/Users/RTT/Desktop/learning/OpenCV/OpenCV-test/test_1-types文档测试/x86-64/build/CMakeFiles/package.dir
+C:/Users/RTT/Desktop/learning/OpenCV/OpenCV-test/test_1-types文档测试/x86-64/build/CMakeFiles/package_source.dir
+C:/Users/RTT/Desktop/learning/OpenCV/OpenCV-test/test_1-types文档测试/x86-64/build/CMakeFiles/edit_cache.dir
+C:/Users/RTT/Desktop/learning/OpenCV/OpenCV-test/test_1-types文档测试/x86-64/build/CMakeFiles/rebuild_cache.dir
